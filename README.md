@@ -1,6 +1,6 @@
-[Portafolio de Frishlin]([https://frishlin.github.io/](https://frishlin.github.io/portafolio-2/))
+[Portafolio de Frishlin]([https://frishlin.github.io/portafolio] 
 
-# Herramientas utilizadas:
+Herramientas utilizadas:
 - HTML5
 - CSS3
 - jQuery v3.3.1
